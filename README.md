@@ -28,7 +28,7 @@ This repository provides examples of unique `go generate` directives that can be
 
 Example:
 
-![File Nesting Example Image](https://resources.jetbrains.com/help/img/idea/2023.2/ws_coffee_example_default_fw_output_dark.png)
+<img src="https://resources.jetbrains.com/help/img/idea/2023.2/ws_coffee_example_default_fw_output_dark.png" alt="File Nesting Example Image" width="400"/>
 
 To configure a compact file display:
 - Click on the three dots to the right of the project menu (next to "select opened files" and "collapse files").
@@ -55,4 +55,4 @@ File watchers allow actions to be performed upon saving a file, including auto-s
 
 Example of how a file watcher can be configured:
 
-![File Watchers Configuration Demo Image](https://resources.jetbrains.com/help/img/idea/2023.2/ws_scss_example_file_watcher_settings_dark.png)
+<img src="https://resources.jetbrains.com/help/img/idea/2023.2/ws_scss_example_file_watcher_settings_dark.png" alt="File Watchers Configuration Demo Image" width="400"/>
